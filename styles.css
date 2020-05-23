@@ -1,4 +1,4 @@
-div {
+div#container {
     width: 600px;
     height: 600px;
     background-color: lightcoral;
@@ -6,6 +6,8 @@ div {
 
 img {
     width: 100px;
-    padding: 200px 200px;
     display: block;
+    position: absolute;
+    top: 225px;
+    left: 225px;
 }
